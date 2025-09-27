@@ -1,0 +1,10 @@
+# Node dependencies
+node_modules/
+
+# logs (if you prefer not to upload logs; optional)
+logs/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.env
